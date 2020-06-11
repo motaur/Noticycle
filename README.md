@@ -5,3 +5,6 @@ Bicycle driver just need to broadcast his bluetooth from his cell phone that con
 A driver pushes the button in the app before he starts to drive.
 When two cell phones are getting distance of visibility, a driver is getting bell and now he is notified.
 
+### How to run
+Open in Android Studio
+
